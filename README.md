@@ -8,7 +8,7 @@ Cieľom tohto projektu bude vytvoriť klient-server webovú aplikáciu s využit
 Technologie:
 Laravel PHP, Docker, MariaDB
 -------------------------- 
-Harmonogram
+Harmonogram:
 1. vytvorenie prostredia docker a mariaDB
 2. pripojenie DB a vytvorenie struktury tabuliek
 3. login uzivatelov
